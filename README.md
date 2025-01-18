@@ -20,29 +20,30 @@ A comprehensive Car Rental System built using modern web technologies to simplif
 ## 🛠️ Technologies Used
 
 ### Frontend:
-- **React.js**
-- **TailwindCSS**
+- **React.js**: A powerful JavaScript library for building dynamic user interfaces with reusable components.
+- **TailwindCSS**: A utility-first CSS framework that enables fast UI design with custom, responsive layouts.
+- **Redux**: A state management library for JavaScript applications, ensuring predictable state across the app.
+- **Axios**: A promise-based HTTP client for making requests to the backend API.
+- **React Router**: A standard library for routing in React applications, enabling navigation between views.
 
 ### Backend:
-- **Node.js**
-- **Express.js**
+- **Node.js**: A JavaScript runtime environment built on Chrome's V8 engine, allowing for fast and scalable server-side applications.
+- **Express.js**: A minimal and flexible Node.js web application framework that simplifies the development of backend services and APIs.
+- **JWT (JSON Web Tokens)**: A compact, URL-safe means of representing claims to be transferred between two parties, used for secure user authentication.
+- **Bcrypt.js**: A library to hash passwords, ensuring secure storage of user credentials.
+- **Multer**: A middleware for handling `multipart/form-data`, used for uploading files in Node.js applications.
 
 ### Database:
-- **MySQL**
+- **MySQL**: An open-source relational database management system used to store and manage the car rental data, such as user information, booking details, and vehicle inventory.
+- **Sequelize**: A promise-based Node.js ORM for MySQL, providing a straightforward way to interact with the database.
+- **Redis**: An in-memory data structure store used as a cache to speed up data retrieval processes.
 
 ### Tools & Platforms:
-- **Git & GitHub** for version control
-- **Postman** for API testing
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-Ensure you have the following installed:
-- **Node.js** (v14 or above)
-- **MySQL Server**
-- **Git**
+- **Git & GitHub**: Git is a version control system that allows developers to track changes in the codebase, while GitHub provides a cloud-based platform for hosting repositories and collaborating with team members.
+- **Postman**: An API testing tool used to test the backend API endpoints, ensuring that the backend functionality is working as expected.
+- **Docker**: A platform for developing, shipping, and running applications inside containers, ensuring consistency across different environments.
+- **Nginx**: A high-performance web server and reverse proxy server used to serve the application and manage load balancing.
+- **Jest**: A testing framework for JavaScript, used to ensure the reliability and stability of the application through unit and integration tests.
 
 ---
 
