@@ -1,4 +1,4 @@
-# 🚗 [**Car Rental System**](https://675562c63e12334281987264--capable-squirrel-7e24fe.netlify.app/)
+# 🚗 [**Car Rental System**](https://cruiseup.netlify.app/)
 
 > To open website, click on **Car Rental System** above.
 
