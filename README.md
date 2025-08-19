@@ -1,8 +1,10 @@
-# 🚗 [**Car Rental System**](https://cruiseup.netlify.app/)
+#  [CruiseUp](https://cruiseup.netlify.app/)
 
-> To open website, click on **Car Rental System** above.
 
-A comprehensive Car Rental System built using modern web technologies to simplify vehicle booking, management, and tracking for users and administrators. This project integrates a user-friendly interface with robust backend functionality, ensuring a seamless car rental experience.
+## Overview
+Experience the **Car Rental System** — featuring a modern frontend design, seamless booking workflow, and a robust backend for efficient vehicle management. It ensures an intuitive car rental experience for users while providing administrators with reliable tools for tracking and management.  
+
+[ Watch the Video](https://drive.google.com/file/d/1YHGDweZ-UGsxeyFayN98HYjBd6zpubVk/view?usp=sharing)
 
 
 ---
